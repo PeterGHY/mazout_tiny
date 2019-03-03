@@ -1,0 +1,4 @@
+ATtiny internal clock 8Mhz
+
+OCR0 = 249;	//(FCPU=16000000)/(prescaler=1024)/(OCR0+1=250)=62,5 ticks per second (every 16ms)
+OCR0 =               8000000
